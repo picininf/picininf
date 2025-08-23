@@ -43,7 +43,7 @@
 ###
 
 <br clear="both">
-<img src="raw.githubusercontent.com/picininf/picininf/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/picininf/picininf/output/snake.svg" alt="Snake animation" />
 
 
 ###
