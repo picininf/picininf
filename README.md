@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Filipe and I'm a developer, from Brazil!</h2>
+<h2 align="left">Hi 👋! My name is Filipe and I'm a Developer, from Brazil!</h2>
 
 ###
 
@@ -43,7 +43,13 @@
 ###
 
 <br clear="both">
+
 <img src="https://raw.githubusercontent.com/picininf/picininf/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=picininf.picininf&"  />
+</div>
 
 ###
