@@ -43,7 +43,7 @@
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/picininf/picininf/output/snake.svg](https://github.com/picininf/picininf/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="raw.githubusercontent.com/picininf/picininf/output/snake.svg](https://github.com/picininf/picininf/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 
 ###
