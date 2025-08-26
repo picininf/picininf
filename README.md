@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" position="relative" right="300" height="150" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png"  />
+<img position="relative" left="1000" height="150" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png"  />
 
 ###
 
